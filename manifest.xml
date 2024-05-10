@@ -4,7 +4,7 @@
   <Version>1.0.0.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Tesssssst"/>
+  <DisplayName DefaultValue="My test add-in"/>
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://minh8181-blz.github.io/test-powerpoint-addin/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://minh8181-blz.github.io/test-powerpoint-addin/assets/icon-64.png"/>
